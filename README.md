@@ -1,13 +1,13 @@
-<h1 align="center">LLM Relief Dispatch Simulation</h1>
+<h1 align="center">Rule-based vs LLM-assisted Relief Delivery Simulation</h1>
 
 <p align="center">
-	<img alt="Status" src="https://img.shields.io/badge/status-simulation-blue?" />
-	<img alt="NetLogo" src="https://img.shields.io/badge/NetLogo-model-76B900?logo=netlogo&logoColor=white" />
+	<img alt="Status" src="https://img.shields.io/badge/status-Simulation-blue?" />
+	<img alt="NetLogo" src="https://img.shields.io/badge/NetLogo-Model-76B900?logo=netlogo&logoColor=white" />
 	<img alt="Python" src="https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white" />
-	<img alt="Ollama" src="https://img.shields.io/badge/Ollama-LLM_Engine-000000?logo=ollama&logoColor=white" />
-	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-data%20analysis-150458?logo=pandas&logoColor=white" />
-	<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-figures-11557C?logo=matplotlib&logoColor=white" />
-	<img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-graphs-2C3E50" />
+	<img alt="Ollama" src="https://img.shields.io/badge/Ollama-LLM-000000?logo=ollama&logoColor=white" />
+	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" />
+	<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-Figures-11557C?logo=matplotlib&logoColor=white" />
+	<img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-Graphs-2C3E50" />
 </p>
 
 This project compares two dispatch strategies for a post-earthquake relief delivery model:

@@ -1,4 +1,6 @@
-<h1 align="center">Rule-based vs LLM-assisted Relief Delivery Simulation</h1>
+<h1 align="center">Shiva</h1>
+
+<p align="center">Project files and source code for the study <i>"LLM-Assisted vs. Rule-Based Dispatch and Routing for Post-Earthquake Relief Delivery: An Agent-Based Monte Carlo Simulation Study"</i> </p>
 
 <p align="center">
 	<img alt="Status" src="https://img.shields.io/badge/status-Simulation-blue?" />
